@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: cinema
+        psr4_prefix: cinema
+        src_path: app
